@@ -73,7 +73,7 @@
 <style scoped>
   .form-dynamic{
     width: 650px;
-    background: #eee;
+    background: #fff;
     padding: 20px;
     padding-top: 40px;
     -webkit-border-radius: 4px;
