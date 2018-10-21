@@ -1,9 +1,5 @@
 <template>
   <div class="home">
-    <div class="tab">
-      <router-link to="/form"><el-button type="primary">动态生成表单项</el-button></router-link>
-      <!--<router-link to="/table"><el-button type="success">动态增删表头</el-button></router-link>-->
-    </div>
     <div class="main">
       <router-view></router-view>
     </div>
